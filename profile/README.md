@@ -1,2 +1,2 @@
-## Welcome to Bitwize!
+## Welcome to Bitwise Labs!
 An open-source website dedicated to creating quality learning materials for programming and tech.
