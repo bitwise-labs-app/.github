@@ -5,4 +5,4 @@
 An open-source website dedicated to creating quality learning materials for programming and tech.
 
 ## Courses
-- \[WIP] Python [Read](https://python.bitwiselabs.app) [Source](https://github.com/bitwise-labs-app)
+- \[WIP] Python [Read](https://python.bitwiselabs.app) [Source](https://github.com/bitwise-labs-app/c-python)
